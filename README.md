@@ -2,4 +2,4 @@
 
 Book tracker website created with HTML, CSS and JS.
 
-👉 [Live Demo](irfansubasi.github.io/book-tracker/) 👈
+👉 [Live Demo](https://irfansubasi.github.io/book-tracker/) 👈
